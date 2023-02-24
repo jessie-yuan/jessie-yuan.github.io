@@ -1,1 +1,3 @@
-# jessie-yuan.github.io
+# Hi, I'm Jessie!
+
+![](senior portrait square.jpg) 
