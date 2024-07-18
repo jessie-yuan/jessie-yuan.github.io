@@ -1,1 +1,1 @@
-# Hi, I'm Jessie!
+This is the source code for Jessie Yuan's website, https://jessie-yuan.github.io/, adapted from https://jonbarron.info/.
