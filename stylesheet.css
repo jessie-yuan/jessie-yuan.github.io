@@ -82,6 +82,7 @@ p,
 a {
   font-family: Helvetica Neue, Helvetica, Verdana, sans-serif, 'Lato';
   font-size: 14px;
+  line-height: 1.4;
 }
 
 strong {
