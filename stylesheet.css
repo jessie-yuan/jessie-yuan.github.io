@@ -74,6 +74,17 @@ a:hover {
   text-decoration: none;
 }
 
+a.dark {
+  color: #000000;
+  text-decoration: none;
+}
+
+a.dark:focus,
+a.dark:hover {
+  color: #ec6fcb;
+  text-decoration: none;
+}
+
 body,
 td,
 th,
